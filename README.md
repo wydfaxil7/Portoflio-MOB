@@ -230,9 +230,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Online access]**
+- [ ] **[Strong Database]**
+- [ ] **[Agility ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,7 +252,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, follow my github account for more coding schemes and coding techniques, that would help in your daily basis.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +262,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the potential programmers in the programming world to make me inpire.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,13 +272,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[How did you approach organizing your design files and components within Figma to maintain efficiency and ease of collaboration?]**
 
-  - [Answer_1]
+  - [Regarding organization within Figma: "I prioritize a systematic approach to organizing design files by creating clear naming conventions, utilizing Figma's components and styles features extensively, and structuring frames and pages logically. This helps streamline collaboration and ensures consistency across projects."]
 
-- **[Question_2]**
+- **[Can you provide insights into your design process, including any specific plugins or resources you found particularly helpful during the creation of these projects?]**
 
-  - [Answer_2]
+  - [Regarding design process and helpful resources: "My design process typically involves initial research and ideation, followed by wireframing and prototyping directly within Figma. I find plugins like Stark for accessibility checks and Unsplash for quick access to high-quality images incredibly useful. Additionally, Figma's built-in collaboration features enable seamless communication and feedback exchange with team members."]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
