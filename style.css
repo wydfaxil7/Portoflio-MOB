@@ -83,7 +83,6 @@
   padding: 8px;
   flex-direction: column;
   align-items: center;
-  margin-left: -15px;
   gap: 12px;
   border-radius: 16px;
   border: 1px solid var(--neutrals-n-40, #dfe1e6);
@@ -100,17 +99,17 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-left: 10px;
   gap: 12px;
 }
 
 .cardtitle {
-  color: #172b4d;
-  font-size: 32px;
   font-family: 'Poppins', sans-serif;
+  font-size: 32px;
   font-weight: 700;
   line-height: 44px;
-  margin: 0%;
-  word-wrap: break-word;
+  letter-spacing: 0;
+  text-align: left;
 }
 
 .Role {
@@ -126,4 +125,72 @@
   width: 8px;
   height: 18px;
   color: #c1c7d0;
+}
+
+li {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.TextGrey {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(122, 134, 154, 1);
+}
+
+.dailysection {
+  color: #344563;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.languages {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lang {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  font-style: normal;
+  letter-spacing: 0.36px;
+  border-radius: 8px;
+  background-color: rgba(235, 235, 255, 1);
+  padding: 4px 12px;
+  color: rgba(96, 112, 255, 1);
+}
+
+.action {
+  display: flex;
+  padding: 12px 169px 12px 0;
+  align-items: center;
+}
+
+.seeproject {
+  display: flex;
+  padding: 12px;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid;
+  background-color: white;
+  border-color: rgba(96, 112, 255, 1);
+  border-radius: 8px;
+  color: var(--primary-b-500, #396df2);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.51px;
 }
