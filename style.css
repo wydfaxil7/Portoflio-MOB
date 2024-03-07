@@ -73,6 +73,7 @@
 .works {
   display: grid;
   grid-template-rows: 575px 620px 575px 620px;
+  top: 718px;
   padding: 18px;
   gap: 88px;
   margin-top: 57px;
@@ -85,7 +86,7 @@
   align-items: center;
   gap: 12px;
   border-radius: 16px;
-  border: 1px solid var(--neutrals-n-40, #dfe1e6);
+  border: 1px solid var(--neutrals-n-40, rgba(223, 225, 230, 1));
   background: var(--neutrals-n-0, #fff);
 }
 
