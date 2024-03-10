@@ -1,7 +1,9 @@
 * {
   padding: 0;
   margin: 0;
+
   /* box-sizing: border-box; */
+
   /* background-color: rgb(241, 241, 241); */
 }
 
@@ -94,7 +96,7 @@ body {
   background-size: 50px 100px;
 
   /* width: 375px; */
-  height: 2788px;
+  height: 2700px;
 }
 
 .card {
