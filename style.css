@@ -245,3 +245,50 @@ li {
   font-weight: 400;
   font-style: normal;
 }
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.lets-connect {
+  /* width: 117px;
+  height: 24px; */
+  color: rgba(127, 140, 255, 1);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.outer-style {
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+}
+
+.inner-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 2px;
+  border-radius: 8px;
+}
+
+.inner-style img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
