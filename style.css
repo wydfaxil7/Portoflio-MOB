@@ -1,5 +1,14 @@
 * {
   padding: 0;
+  margin: 0;
+
+  /* box-sizing: border-box; */
+
+  /* background-color: rgb(241, 241, 241); */
+}
+
+body {
+  background-color: rgb(241, 241, 241);
 }
 
 .header {
@@ -32,12 +41,14 @@
   flex-direction: column;
   gap: 12px;
   padding: 152px 20px;
-  background-image: url('images/background.png');
+  border-radius: 0 0 0 80px;
+  background-image: url('./images/header-shapes\ mobile.png');
   background-repeat: no-repeat;
+  background-color: #fff;
 }
 
 .intro {
-  color: #172b4d;
+  color: rgba(23, 43, 77, 1);
   font-size: 40px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
