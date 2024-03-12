@@ -1,5 +1,14 @@
 * {
   padding: 0;
+  margin: 0;
+
+  /* box-sizing: border-box; */
+
+  /* background-color: rgb(241, 241, 241); */
+}
+
+body {
+  background-color: rgb(241, 241, 241);
 }
 
 .header {
@@ -7,16 +16,19 @@
   height: 48px;
   justify-content: space-between;
   align-items: center;
+  background-color: #fff;
 }
 
 .logo {
-  color: #6070ff;
+  color: rgba(96, 112, 255, 1);
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   line-height: 20px;
   word-wrap: break-word;
-  margin-left: 10px;
+  margin-left: 20px;
+  width: 76px;
+  height: 20px;
 }
 
 .menu-icon {
@@ -26,4 +38,5 @@
   left: 311px;
   padding: 8px;
   border-radius: 8px;
+  margin-right: 8px;
 }
