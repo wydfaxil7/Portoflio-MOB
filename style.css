@@ -39,4 +39,239 @@ body {
   padding: 8px;
   border-radius: 8px;
   margin-right: 8px;
+
+.works {
+  display: grid;
+  grid-template-rows: 575px 620px 575px 620px;
+  top: 718px;
+  padding: 18px;
+  gap: 88px;
+  margin-top: 100px;
+  background-color: rgb(241, 241, 241);
+  background-size: 50px 100px;
+
+  /* width: 375px; */
+  height: 2700px;
+}
+
+.card {
+  display: flex;
+  width: 327px;
+  height: 596px;
+  padding: 4px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  border-radius: 16px;
+  border: 1px solid var(--neutrals-n-40, rgba(223, 225, 230, 1));
+  background: var(--neutrals-n-0, #fff);
+}
+
+.snapshoot {
+  width: 295px;
+  height: 220px;
+  border-radius: 8px;
+}
+
+.leftblock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 10px;
+  gap: 12px;
+}
+
+.cardtitle {
+  width: 295px;
+  height: 80px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0;
+  text-align: left;
+}
+
+.Role {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.counter {
+  width: 8px;
+  height: 18px;
+  color: #c1c7d0;
+}
+
+li {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.TextGrey {
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(122, 134, 154, 1);
+}
+
+.dailysection {
+  color: #344563;
+  width: 295px;
+  height: 76px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.languages {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lang {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  font-style: normal;
+  letter-spacing: 0.36px;
+  border-radius: 8px;
+  background-color: rgba(235, 235, 255, 1);
+  padding: 4px 12px;
+  color: rgba(96, 112, 255, 1);
+}
+
+.action {
+  display: flex;
+  padding: 12px 169px 12px 0;
+  align-items: center;
+}
+
+.seeproject {
+  display: flex;
+  padding: 12px;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid;
+  background-color: white;
+  border-color: rgba(96, 112, 255, 1);
+  border-radius: 8px;
+  color: var(--primary-b-500, #396df2);
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.51px;
+}
+
+.container {
+  background-color: rgba(223, 225, 230, 1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-page {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(241, 241, 241);
+}
+
+.about-section {
+  display: flex;
+  padding: 114px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  background-color: #fff;
+  border-radius: 0 80px 0 0;
+}
+
+.about-myself {
+  display: flex;
+  width: 327px;
+  height: 35px;
+  margin-left: 10px;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(23, 43, 77, 1);
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+}
+
+.about-text {
+  width: 327px;
+  height: 147px;
+  margin-left: 10px;
+  color: rgba(52, 69, 99, 1);
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.lets-connect {
+  /* width: 117px;
+  height: 24px; */
+  color: rgba(127, 140, 255, 1);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.outer-style {
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+}
+
+.inner-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 2px;
+  border-radius: 8px;
+}
+
+.inner-style img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
