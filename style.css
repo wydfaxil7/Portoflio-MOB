@@ -8,6 +8,7 @@ body {
 }
 
 .header {
+  background-color: #fff;
   display: flex;
   height: 48px;
   justify-content: space-between;
@@ -15,8 +16,8 @@ body {
 }
 
 .logo {
-  color: #6070ff;
   font-size: 18px;
+  color: rgba(96, 112, 255, 1);
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
   line-height: 20px;
