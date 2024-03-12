@@ -1,8 +1,14 @@
 * {
   padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(241, 241, 241);
 }
 
 .header {
+  color: #fff;
   display: flex;
   height: 48px;
   justify-content: space-between;
@@ -84,7 +90,22 @@
   height: 2788px;
 }
 
-.card {
+.card-ton {
+  width: 327px;
+  height: 552px;
+  display: flex;
+  padding: 8px;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  border-radius: 16px;
+  border: 1px solid var(--neutrals-n-40, rgba(223, 225, 230, 1));
+  background: var(--neutrals-n-0, #fff);
+}
+
+.card-multi {
+  width: 327px;
+  height: 596px;
   display: flex;
   padding: 8px;
   flex-direction: column;
