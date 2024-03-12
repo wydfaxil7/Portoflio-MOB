@@ -227,3 +227,98 @@ li {
   letter-spacing: 0.51px;
 }
 
+.container {
+  background-color: rgba(223, 225, 230, 1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-page {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(241, 241, 241);
+}
+
+.about-section {
+  display: flex;
+  padding: 114px 24px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  background-color: #fff;
+  border-radius: 0 80px 0 0;
+}
+
+.about-myself {
+  display: flex;
+  width: 327px;
+  height: 35px;
+  margin-left: 10px;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(23, 43, 77, 1);
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+}
+
+.about-text {
+  width: 327px;
+  height: 147px;
+  margin-left: 10px;
+  color: rgba(52, 69, 99, 1);
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.lets-connect {
+  color: rgba(127, 140, 255, 1);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.outer-style {
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+}
+
+.inner-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 2px;
+  border-radius: 8px;
+}
+
+.inner-style img {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
