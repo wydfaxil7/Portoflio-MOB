@@ -102,8 +102,8 @@ body {
 .card {
   display: flex;
   width: 327px;
-  height: 552px;
-  padding: 8px;
+  height: 596px;
+  padding: 4px;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -123,11 +123,14 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  justify-content: center;
   margin-left: 10px;
   gap: 12px;
 }
 
 .cardtitle {
+  width: 295px;
+  height: 80px;
   font-family: 'Poppins', sans-serif;
   font-size: 32px;
   font-weight: 700;
@@ -166,6 +169,8 @@ li {
 
 .dailysection {
   color: #344563;
+  width: 295px;
+  height: 76px;
   font-family: 'Poppins', sans-serif;
   font-size: 15px;
   font-style: normal;
