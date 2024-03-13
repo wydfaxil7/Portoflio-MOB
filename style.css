@@ -272,6 +272,7 @@ li {
 .icons {
   display: flex;
   align-items: center;
+  margin-left: 10px;
 }
 
 .outer-style {
@@ -295,12 +296,6 @@ li {
   width: 24px;
   height: 24px;
   flex-shrink: 0;
-}
-
-.icons {
-  display: flex;
-  align-items: center;
-  margin-left: 10px;
 }
 
 .see-project {
@@ -331,6 +326,7 @@ ul {
 
 .language-group {
   display: flex;
+
   /* width: 327px;
   height: 464.15px; */
   padding: 16px 12px 16px 12px;
@@ -345,7 +341,6 @@ ul {
   align-items: center;
   justify-content: center;
   gap: 12px;
-  margin-left: 20px;
   margin: 0;
   border-bottom: 1px solid rgba(223, 225, 230, 1);
 }
@@ -374,6 +369,7 @@ ul {
 
 .drop-down {
   display: flex;
+
   /* width: 40px;
   height: 40px; */
   padding: 8px;
