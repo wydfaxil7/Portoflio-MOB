@@ -456,3 +456,53 @@ ul {
   font-weight: 500;
   line-height: 20px;
 }
+
+.contact-me {
+  background-color: rgba(96, 112, 255, 1);
+  border-radius: 80px 0 0 0;
+  width: 375px;
+  height: 1000px;
+  margin: 0;
+  background-image: url('./images/contact\ form\ shapes-mobile@2x.png');
+}
+
+.head-text {
+  transform: translate(30px, 120px);
+  margin-right: 40px;
+}
+
+.one-img {
+  margin: 25px 30px;
+}
+
+.form {
+  transform: translate(25px, 175px);
+  margin-right: 20px;
+}
+
+.form input {
+  padding: 15px 73px;
+  margin: 10px 5px;
+  border-radius: 8px;
+  border: 1px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.form button {
+  padding: 15px 30px;
+  border-radius: 8px;
+  margin-left: 10px;
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  color: #6070ff;
+  border: 1px;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.form textarea {
+  font-family: 'Poppins', sans-serif;
+  padding: 15px 52px;
+  margin: 8px;
+  border-radius: 8px;
+}
