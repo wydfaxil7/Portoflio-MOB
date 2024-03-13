@@ -83,13 +83,13 @@ body {
   grid-template-rows: 575px 620px 575px 620px;
   top: 718px;
   padding: 18px;
-  gap: 88px;
+  gap: 65px;
   margin-top: 57px;
   background-color: rgb(241, 241, 241);
   background-size: 50px 100px;
 
   /* width: 375px; */
-  height: 2788px;
+  height: 2650px;
 }
 
 .card-ton {
