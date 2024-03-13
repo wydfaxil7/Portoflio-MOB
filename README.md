@@ -6,7 +6,7 @@
 !!! IMPORTANT !!!
 This README is an example of how you could professionally present your codebase. 
 Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-You should modify this file to match your project and remove sections that don't apply.
+
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
@@ -19,9 +19,7 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-OPTIONAL SECTIONS:
-- FAQ
-After you're finished please remove all the comments and instructions!
+
 For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
 -->
 
@@ -30,7 +28,8 @@ For more information on the importance of a professional README for your reposit
   <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Portfolio Template</b></h3>
+  <h3><b>Microverse Figma Portfolio</b></h3>
+  
 
 </div>
 
@@ -63,6 +62,7 @@ For more information on the importance of a professional README for your reposit
 # 📖 [Portfolio_Mobile-Version] <a name="about-project"></a>
 
 > My Figma portfolio showcases a diverse range of projects, highlighting my proficiency in user interface design, prototyping, and collaborative workflow within the platform. Each project reflects my commitment to delivering elegant and user-centric design solutions.
+
 **[Portfolio_Mobile-Version]** is a full pledge website.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -70,6 +70,7 @@ For more information on the importance of a professional README for your reposit
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -96,6 +97,7 @@ For more information on the importance of a professional README for your reposit
 ### Key Features <a name="key-features"></a>
 
 > The key features are as under:
+
 - **[Reliability]**
 - **[Flexibility]**
 - **[Interactive]**
@@ -107,6 +109,7 @@ For more information on the importance of a professional README for your reposit
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
+
 - [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,6 +119,7 @@ For more information on the importance of a professional README for your reposit
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -124,6 +128,7 @@ In order to run this project you need:
 
 <!--
 Example command:
+
 ```sh
  gem install rails
 ```
@@ -135,6 +140,7 @@ Clone this repository to your desired folder:
 
 <!--
 Example commands:
+
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
@@ -147,6 +153,7 @@ Install this project with:
 
 <!--
 Example command:
+
 ```sh
   cd my-project
   gem install
@@ -159,6 +166,7 @@ To run the project, execute the following command:
 
 <!--
 Example command:
+
 ```sh
   rails server
 ```
@@ -170,6 +178,7 @@ To run tests, run the following command:
 
 <!--
 Example command:
+
 ```sh
   bin/rails test test/models/article_test.rb
 ```
@@ -181,7 +190,7 @@ You can deploy this project using:
 
 <!--
 Example:
-```sh
+
 ```
  -->
 
@@ -192,6 +201,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
@@ -211,6 +221,7 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
+
 - [ ] **[Online access]**
 - [ ] **[Strong Database]**
 - [ ] **[Agility ]**
@@ -232,6 +243,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
+
 If you like this project, follow my github account for more coding schemes and coding techniques, that would help in your daily basis.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -241,7 +253,8 @@ If you like this project, follow my github account for more coding schemes and c
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
-I would like to thank the potential programmers in the programming world to make me inpire
+
+I would like to thank the potential programmers in the programming world to make me inpire.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,6 +263,7 @@ I would like to thank the potential programmers in the programming world to make
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
+
 - **[How did you approach organizing your design files and components within Figma to maintain efficiency and ease of collaboration?]**
 
   - [Regarding organization within Figma: "I prioritize a systematic approach to organizing design files by creating clear naming conventions, utilizing Figma's components and styles features extensively, and structuring frames and pages logically. This helps streamline collaboration and ensures consistency across projects."]
@@ -268,4 +282,4 @@ This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
