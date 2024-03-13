@@ -32,7 +32,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse Figma Portfolio</b></h3>
@@ -69,7 +69,7 @@ For more information on the importance of a professional README for your reposit
 
 > My Figma portfolio showcases a diverse range of projects, highlighting my proficiency in user interface design, prototyping, and collaborative workflow within the platform. Each project reflects my commitment to delivering elegant and user-centric design solutions.
 
-**[Portfolio_Mobile-Version]** is a full pledge application.
+**[Portfolio_Mobile-Version]** is a full pledge website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
