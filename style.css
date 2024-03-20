@@ -52,6 +52,8 @@ body {
   font-weight: 700;
   line-height: 52px;
   word-wrap: break-word;
+  animation: mySlide;
+  animation-duration: 3s;
 }
 
 .bio {
@@ -62,6 +64,18 @@ body {
   line-height: 24px;
   word-wrap: break-word;
   align-items: center;
+  animation: mySlide;
+  animation-duration: 5s;
+}
+
+@keyframes mySlide {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
 }
 
 .connect {
