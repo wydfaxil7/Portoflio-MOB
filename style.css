@@ -5,9 +5,12 @@
 
 body {
   background-color: rgb(241, 241, 241);
+  width: 375px;
+  justify-content: center;
 }
 
 .header {
+  width: 375px;
   background-color: #fff;
   display: flex;
   height: 48px;
@@ -520,7 +523,7 @@ ul {
 
 .form textarea {
   font-family: 'Poppins', sans-serif;
-  padding: 15px 52px;
-  margin: 8px;
+  padding: 14px 50px;
+  margin-right: 50px;
   border-radius: 8px;
 }
